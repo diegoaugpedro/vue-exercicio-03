@@ -1,4 +1,4 @@
-# exercicio-02
+# exercicio-03
 
 ## Project setup
 ```
